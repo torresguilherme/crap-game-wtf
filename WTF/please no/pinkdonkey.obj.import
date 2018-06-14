@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/pinkdonkey.obj-c6b88fd5f5eb4f7756136358cf15f7d3.mesh"
+
+[deps]
+
+files=[ "res://.import/pinkdonkey.obj-c6b88fd5f5eb4f7756136358cf15f7d3.mesh" ]
+
+source_file="res://please no/pinkdonkey.obj"
+source_md5="a2168df1803a3565f4ac13e856aeb73e"
+
+dest_files=[ "res://.import/pinkdonkey.obj-c6b88fd5f5eb4f7756136358cf15f7d3.mesh", "res://.import/pinkdonkey.obj-c6b88fd5f5eb4f7756136358cf15f7d3.mesh" ]
+dest_md5="1ac3ca2e7617a35c088bbb96a0ed612e"
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )

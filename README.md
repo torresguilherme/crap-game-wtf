@@ -1,2 +1,2 @@
 # crap-game-wtf
-seriously wtf
+donkeys vs. blenders
